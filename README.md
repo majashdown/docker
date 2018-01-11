@@ -8,7 +8,8 @@ Dockerfiles for creating images:
   Python packages is installed.
 
 * shifter-intelpython-hello: example of using the shifter-intelpython
-  image.  A simple 'Hello world' Python script installed on top of it.
+  image.  A simple 'Hello world' Python script is installed on top of
+  it.
 
 * shifter-intelpython-healpy: image with the numpy, scipy and healpy
   packages, and their dependencies, installed on top of the
