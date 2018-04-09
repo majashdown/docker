@@ -1,4 +1,4 @@
-# Docker
+# Dockerfiles for use with Shifter at NERSC
 
 Dockerfiles for creating images:
 
